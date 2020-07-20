@@ -1041,7 +1041,7 @@ string monomio::monomio2str(){
 	if(coef!=0&&exp!=0){
 		buffer << "x";
 		if(exp!=1){
-			buffer << "^" << to_string(exp);
+			buffer << "^" << exp;
 		}
 	}
 	return buffer.str();
