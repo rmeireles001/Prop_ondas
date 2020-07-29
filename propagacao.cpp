@@ -81,7 +81,6 @@ void propagacao::zerar(int n){
 		R[i] = 0.0;
 		F[i] = 0.0;
 		P[i] = 0.0;
-		A[i] = 0.0;
 		config[i] = 0;
 	}
 	for(int i=0; i<=n; i++){

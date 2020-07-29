@@ -21,7 +21,7 @@
 #define ponderacao 1.0
 #define ro 2700
 #define pontos 1001
-#define contagem 1000
+#define contagem 5
 
 
 using namespace std;
